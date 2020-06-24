@@ -1,0 +1,3 @@
+export const SELECT_ALL = 'SELECT_ALL'
+export const SELECT_ALL_FLIGHT = 'SELECT_ALL_FLIGHT'
+export const DELECT_ONE_FLIGHT = 'DELECT_ONE_FLIGHT'

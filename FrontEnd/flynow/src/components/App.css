@@ -1,0 +1,83 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+.trigger {
+  font-size: 18px;
+  line-height: 64px;
+  padding: 0 24px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.trigger:hover {
+  color: #1890ff;
+}
+
+/* .logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+} */
+/* Ant Desiner */
+
+.login-form {
+  max-width: 300px;
+}
+.login-form-forgot {
+  float: right;
+}
+.login-form-button {
+  width: 100%;
+}
+
+/* Ant Desiner */
+
+.logoStyle{
+  margin: 5px 0px 10px 5px ;  
+  width:80%;
+  /* height: 32px;
+ 
+  
+  /* margin: 5px 5px 5px 20px */
+}
+.avata-img{
+    border: none;
+    border-radius: 50%;
+    height: 47px;
+    margin: 5px 0 0 0;
+}
+.avata{
+  display: inline;
+  float: right;
+  margin: 0px 15px 0px 0px;
+}
+.nameAdmin{
+  font-size: 16px;
+  font-weight: bold;
+}
+.btnSuaXoa{
+  margin: 1px 2px 1px 2px;
+}
+.listAction{
+  margin: 0 0 10px 0;
+  /* float:right; */
+}
